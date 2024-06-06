@@ -1,3 +1,8 @@
 .venv
 corpus
+corpus-lemmatized-filtered
+corpus-lemmatized-filtered-backup
+corpus-lemmatized-filtered-20y-window-nested
+corpus-lemmatized-filtered-20y-window
 lemmatized
+lemmatized-20y-window
